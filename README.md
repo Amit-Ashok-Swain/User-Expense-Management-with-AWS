@@ -43,7 +43,7 @@ The User Expense Tracker is a Spring Boot-based system that empowers users to ef
 - **Database:** MySQL
 - **Build Tool:** Maven
 - **Database:** MySQL (Hosted on AWS EC2)
-- **Continuous Integration:** GitHub Action
+- **Continuous Integration:** GitHub Actions
 - **API Documentation:** SpringDoc OpenAPI (Swagger UI)
 
 ## AWS EC2 for Database
